@@ -490,7 +490,9 @@ namespace mbit_小车类 {
         prelude,
 		//% blockId="ode" block="颂歌"
         ode,
-        //% blockId="ringtone" block="铃声"
+		//% blockId="nyan" block="梅琪立"
+        nyan,
+       //% blockId="ringtone" block="铃声"
         ringtone,
 		//% blockId="funk" block="爵士乐"
         funk,
@@ -508,7 +510,11 @@ namespace mbit_小车类 {
         baddy,
 		//% blockId="chase" block="追求"
         chase,
-		//% blockId="jump_up" block="上跳"
+		//% blockId="ba_ding" block="巴丁"
+        ba_ding,
+		//% blockId="wawawawaa" block="哇哇"
+        wawawawaa,
+        //% blockId="jump_up" block="上跳"
         jump_up,
 		//% blockId="jump_down" block="下跳"
         jump_down,
