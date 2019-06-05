@@ -5,7 +5,7 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-		"neopixel": "github:microsoft/pxt-neopixel#v0.6.9",
+		"neopixel": "github:nanlearning/pxtneopixel",
         "Mbit_IR":  "github:nanlearning/mbit_IR"
 	
 
